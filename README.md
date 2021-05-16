@@ -3,14 +3,14 @@
 
 ---
 
-<h3> 🔭 My Career<br><br> </h3>
-
+<h3 align = "center"> 🔭 My Career<br><br> </h3>
+<div align = "center">
 Hello I'm Hyeonjin Kim:raised_hands:<br>
 :green_heart: EWHA University in Korea<br>
 :computer: Computer Science & Engineering<br>
+</div>
 
-
-<table style="border-collapse: collapse; width: 100%; height: 200px;"border="1" data-ke-align="center">
+<table style="border-collapse: collapse; width: 100%; height: 200px;"border="1" data-ke-align="center" align = "center">
   <tbody>
     <tr style="height: 20px;">
       <td style="width: 14.7676%; height: 20px; text-align: center;font-weight: 800;"><b>Type</b> </td>
@@ -62,24 +62,24 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
 ---
 
 
-<h3 >:wrench:Tech Stack:nut_and_bolt:<br><br></h3>
-<div style = "display: flex; align-item : center; justify-item: center">
+<h3 align = "center">:wrench:Tech Stack:wrench:<br><br></h3>
+<div style = "display: flex; align-item : center; justify-item: center" align = "center">
 <span align="center" style = "font-weight: 800;">:pushpin: Programing Lang : </span> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/C-ABB9CC?style=flat-square&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 </div>
 
-<div style = "display: flex; align-item : center; justify-item: center">
+<div style = "display: flex; align-item : center; justify-item: center" align = "center">
 <span align="center" style = "font-weight: 800;">:pushpin: Framework : </span><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </div>
 
-<div style = "display: flex; align-item : center; justify-item: center">
+<div style = "display: flex; align-item : center; justify-item: center" align = "center">
 <span align="center"style = "font-weight: 800;">:pushpin: DataBase : </span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </div>
 
 ---
 
 
-<h3>:paperclip:Contact Link:paperclip:<br><br></h3>
-<div style = "display: flex; align-item : center; justify-item: center">
+<h3 align = "center">:paperclip:Contact Link:paperclip:<br><br></h3>
+<div style = "display: flex; align-item : center; justify-item: center" align = "center">
 <a href="mailto:khjyj125@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://gimkuku0708.tistory.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://www.instagram.com/gimkuku0708"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
