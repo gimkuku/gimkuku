@@ -1,8 +1,10 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6FA2E1&height=300&section=header&text=Gimkuku's%20Devlog&fontSize=70&fontColor=FFFFFF&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6FA2E1&height=300&section=header&text=Welcome to KuKu's Github&fontSize=70&fontColor=FFFFFF&animation=blinking)
 
 
-
+---
+<br>
+<br>
 <h3> 🔭 My Career<br><br> </h3>
 
 Hello I'm Hyeonjin Kim:raised_hands:<br>
