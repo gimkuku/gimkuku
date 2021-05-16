@@ -1,10 +1,11 @@
-<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=6FA2E1&width=70000&height=300&section=header&text=Gimkuku's%20Devlog&fontSize=70&fontColor=FFFFFF)
-</div>
 
 
 
 ---
+
+
 <h3 align="center"> 🔭 My Career </h3>
 <table style="border-collapse: collapse; width: 100%; height: 200px;" align="center" border="1" data-ke-align="center">
   <tbody>
@@ -56,7 +57,11 @@
 </table>
 
 
+
+
+
 ---
+
 
 <h3 align="center">:computer:Tech Stack:computer:</h3>
 <div style = "display: flex; align-item : center; justify-item: center" align="center">
@@ -71,8 +76,18 @@
 <span align="center"style = "font-weight: 800;">:pushpin: DataBase : </span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </div>
 
+
+
+
 ---
-<a href="https://gimkuku0708.tistory.com/">My Dev.log</a>
+
+
+<h3 align="center">:paperclip:Contact Link:paperclip:</h3>
+<div style = "display: flex; align-item : center; justify-item: center" align="center">
+<a href="mailto:khjyj125@gmail.com"<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://gimkuku0708.tistory.com/"<img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://www.instagram.com/gimkuku0708"<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+</div>
 
 
 
