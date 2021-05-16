@@ -8,10 +8,10 @@
 <table style="border-collapse: collapse; width: 100%; height: 200px;" align="center" border="1" data-ke-align="center">
   <tbody>
     <tr style="height: 20px;">
-      <td style="width: 14.7676%; height: 20px; text-align: center;weight=800;"><b>Type</b> </td>
-      <td style="width: 15.465%; height: 20px; text-align: center;weight=800;"><b>Date</b></td>
-      <td style="width: 44.7674%; height: 20px; text-align: center;weight=800;"><b>Contents</b></td>
-      <td style="width: 25%; height: 20px; text-align: center;weight=800;"><b>Stack</b></td>
+      <td style="width: 14.7676%; height: 20px; text-align: center;font-weight: 800;"><b>Type</b> </td>
+      <td style="width: 15.465%; height: 20px; text-align: center;font-weight: 800;"><b>Date</b></td>
+      <td style="width: 44.7674%; height: 20px; text-align: center;font-weight: 800;"><b>Contents</b></td>
+      <td style="width: 25%; height: 20px; text-align: center;font-weight: 800;"><b>Stack</b></td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14.7676%; height: 20px; text-align: center;">Education</td>
@@ -58,19 +58,18 @@
 ---
 
 <h3 align="center">:computer:Tech Stack:computer:</h3>
-
-<p align="center">Programing Lang.</p>
 <div style = "display: flex; align-item : center; justify-item: center">
+<p align="center" style = "font-weight: 800;">Programing Lang.</p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/C-ABB9CC?style=flat-square&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 </div>
 
-<p align="center">Framework</p>
 <div style = "display: flex; align-item : center; justify-item: center">
+<p align="center" style = "font-weight: 800;">Framework</p>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </div>
 
-<p align="center">DataBase</p>
 <div style = "display: flex; align-item : center; justify-item: center">
+<p align="center"style = "font-weight: 800;">DataBase</p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </div>
 
