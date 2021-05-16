@@ -1,10 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6FA2E1&height=300&section=header&text=KuKu's%20Github&fontSize=70&fontColor=FFFFFF&animation=twinkling&descSize=30)
 
-
 ---
-<br>
-<br>
+
 <h3> 🔭 My Career<br><br> </h3>
 
 Hello I'm Hyeonjin Kim:raised_hands:<br>
@@ -61,10 +59,6 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
   </tbody>
 </table>
 
-<br><br>
-
-
-
 ---
 
 
@@ -80,9 +74,6 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
 <div style = "display: flex; align-item : center; justify-item: center">
 <span align="center"style = "font-weight: 800;">:pushpin: DataBase : </span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </div>
-
-<br><br>
-
 
 ---
 
