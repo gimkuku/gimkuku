@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=6FA2E1&width=3000&height=300&section=header&text=Gimkuku's%20Devlog&fontSize=70&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=wave&color=6FA2E1&width=30000&height=300&section=header&text=Gimkuku's%20Devlog&fontSize=70&fontColor=FFFFFF)
 
 
 
