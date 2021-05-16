@@ -9,7 +9,7 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
 :green_heart: EWHA University in Korea<br>
 :computer: Computer Science & Engineering<br>
 </div>
-
+<br><br>
 <table style="border-collapse: collapse; width: 100%; height: 200px;"border="1" data-ke-align="center" align = "center">
   <tbody>
     <tr style="height: 20px;">
