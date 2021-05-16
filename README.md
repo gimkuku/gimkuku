@@ -3,10 +3,7 @@
 
 
 
----
-
-
-<h3 align="center"> <br><br>🔭 My Career<br><br> </h3>
+<h3 align="center"> 🔭 My Career<br><br> </h3>
 <table style="border-collapse: collapse; width: 100%; height: 200px;" align="center" border="1" data-ke-align="center">
   <tbody>
     <tr style="height: 20px;">
@@ -63,7 +60,7 @@
 ---
 
 
-<h3 align="center"><br><br>:computer:Tech Stack:computer:<br><br></h3>
+<h3 align="center">:computer:Tech Stack:computer:<br><br></h3>
 <div style = "display: flex; align-item : center; justify-item: center" align="center">
 <span align="center" style = "font-weight: 800;">:pushpin: Programing Lang : </span> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/C-ABB9CC?style=flat-square&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 </div>
@@ -82,7 +79,7 @@
 ---
 
 
-<h3 align="center"><br><br>:paperclip:Contact Link:paperclip:<br><br></h3>
+<h3 align="center">:paperclip:Contact Link:paperclip:<br><br></h3>
 <div style = "display: flex; align-item : center; justify-item: center" align="center">
 <a href="mailto:khjyj125@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://gimkuku0708.tistory.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
