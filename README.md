@@ -84,9 +84,9 @@
 
 <h3 align="center">:paperclip:Contact Link:paperclip:</h3>
 <div style = "display: flex; align-item : center; justify-item: center" align="center">
-<a href="mailto:khjyj125@gmail.com"<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://gimkuku0708.tistory.com/"<img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
-<a href="https://www.instagram.com/gimkuku0708"<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:khjyj125@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://gimkuku0708.tistory.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://www.instagram.com/gimkuku0708"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div>
 
 
