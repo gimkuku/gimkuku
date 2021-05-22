@@ -20,7 +20,7 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14.7676%; height: 20px; text-align: center;">Education</td>
-    <td style="width: 15.465%; height: 20px; text-align: center;">2018.03 ~</td>
+      <td style="width: 15.465%; height: 20px; text-align: center;">2018.03 ~</td>
       <td style="width: 44.7674%; height: 20px; text-align: center;">소프트웨어학부 컴퓨터공학과</td>
       <td style="width: 25%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
@@ -44,11 +44,19 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
       <td style="width: 14.7676%; height: 20px; text-align: center;">AI</td>
       <td style="width: 15.465%; height: 20px; text-align: center;">2020.12&nbsp;<br>~ 2021.03</td>
       <td style="width: 44.7674%; height: 20px; text-align: center;">인공지능을 이용한 시조 창작하기</td>
-      <td style="width: 25%; height: 20px; text-align: center;">GPT-3, Python</td></tr><tr style="height: 20px;">
-    <td style="width: 14.7676%; height: 20px; text-align: center;">App<br>Development</td>
-    <td style="width: 15.465%; height: 20px; text-align: center;">2021.01 ~</td>
-    <td style="width: 44.7674%; height: 20px; text-align: center;">MeIn : 메뉴판을 찍으면 음식을 검색해주는<br>어플리케이션 개발</td>
-    <td style="width: 25%; height: 20px; text-align: center;">OCR, Flutter</td>
+      <td style="width: 25%; height: 20px; text-align: center;">GPT-3, Python</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14.7676%; height: 20px; text-align: center;">Web<br>Development</td>
+      <td style="width: 15.465%; height: 20px; text-align: center;">2021.02&nbsp;<br>~ 2021.02</td>
+      <td style="width: 44.7674%; height: 20px; text-align: center;">입대 예정자(미필)를 위한 사단 별점평가 웹사이트</td>
+      <td style="width: 25%; height: 20px; text-align: center;">Node.JS, Html, Css</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14.7676%; height: 20px; text-align: center;">App<br>Development</td>
+      <td style="width: 15.465%; height: 20px; text-align: center;">2021.01 ~</td>
+      <td style="width: 44.7674%; height: 20px; text-align: center;">MeIn : 메뉴판을 찍으면 음식을 검색해주는<br>어플리케이션 개발</td>
+      <td style="width: 25%; height: 20px; text-align: center;">OCR, Flutter</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14.7676%; height: 20px; text-align: center;">Web<br>Development</td>
@@ -64,15 +72,26 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
 
 <h3 align = "center">:wrench:Tech Stack:wrench:<br><br></h3>
 <div style = "display: flex; align-item : center; justify-item: center" align = "center">
-<span align="center" style = "font-weight: 800;">:pushpin: Programing Lang : </span> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/C-ABB9CC?style=flat-square&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  
+<span align="center" style = "font-weight: 800;">:pushpin: Programing Lang : </span> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/C-ABB9CC?style=flat-square&logo=C&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  
 </div>
 
 <div style = "display: flex; align-item : center; justify-item: center" align = "center">
-<span align="center" style = "font-weight: 800;">:pushpin: Framework : </span><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+<span align="center" style = "font-weight: 800;">:pushpin: Framework : </span>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 </div>
 
 <div style = "display: flex; align-item : center; justify-item: center" align = "center">
-<span align="center"style = "font-weight: 800;">:pushpin: DataBase : </span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+<span align="center"style = "font-weight: 800;">:pushpin: DataBase : </span>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </div>
 
 ---
