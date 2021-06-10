@@ -55,7 +55,7 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
     <tr style="height: 20px;">
       <td style="width: 14.7676%; height: 20px; text-align: center;">Web<br>Development</td>
       <td style="width: 15.465%; height: 20px; text-align: center;">2021.05 ~</td>
-      <td style="width: 44.7674%; height: 20px; text-align: center;">이벤트 다! 나와 :<br>사용자 맞춤 브랜드 정보를 모아주는 웹 페이지 개발</td>
+      <td style="width: 44.7674%; height: 20px; text-align: center;">VENTI :<br>사용자 맞춤 브랜드 정보를 모아주는 웹 페이지 개발</td>
       <td style="width: 25%; height: 20px; text-align: center;">Django, Python</td>
     </tr>
   </tbody>
