@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6FA2E1&height=300&section=header&text=KuKu's%20Github&fontSize=70&fontColor=FFFFFF&animation=twinkling&descSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6FA2E1&height=300&section=header&text=Gimkuku's%20Github&fontSize=70&fontColor=FFFFFF&animation=twinkling&descSize=30)
 
 ---
 
