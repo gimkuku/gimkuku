@@ -65,7 +65,7 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
 
 
 <h3 align = "center">:wrench:Tech Stack:wrench:<br><br></h3>
-<div style = "display: flex; margin-left: 45px" align = "center">
+<div style = "display: flex; margin-left: 45px">
   <span align="center" style = "font-weight: 800;">:pushpin: Programing Lang : </span> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
   <img src="https://img.shields.io/badge/C-ABB9CC?style=flat-square&logo=C&logoColor=white"/>  
@@ -76,7 +76,7 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>  
 </div>
 
-<div style = "display: flex; align-item : center; justify-item: center" align = "center">
+<div style = "display: flex; margin-left: 45px">
   <span align="center" style = "font-weight: 800;">:pushpin: Framework : </span>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>  
