@@ -88,6 +88,11 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </div>
 
+<div style = "display: flex; align-item : center; justify-item: center" align = "center">
+<span align="center"style = "font-weight: 800;">:pushpin: Deploy : </span>
+  <img src="https://img.shields.io/badge/AmazonAWS-232FE3?style=flat-square&logo=AmazonAWS&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/TravisCI-3EAAAF?style=flat-square&logo=TravisCI&logoColor=white"/>
+</div>
 ---
 
 
