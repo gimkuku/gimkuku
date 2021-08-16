@@ -64,9 +64,7 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
 ---
 
 
-<h3 align = "center">:wrench:Tech Stack:wrench:<br><br></h3>
-<div style = "display: flex">
-  <div style = "justify-content: center;  margin-left: 90px; padding-left : 90px;">
+<h3 align = "center">:wrench:Tech Stack:wrench:<br></h3>
 <div style = "display: flex;">
   <span align="center" style = "font-weight: 800;">:pushpin: Programing Lang : </span> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
@@ -100,9 +98,8 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
   <img src="https://img.shields.io/badge/AmazonAWS-232FE3?style=flat-square&logo=AmazonAWS&logoColor=white"/>  
   <img src="https://img.shields.io/badge/TravisCI-3EAAAF?style=flat-square&logo=TravisCI&logoColor=white"/>
 </div>
-    </div>
-  </div>
 
+    
 ---
 
 
