@@ -85,7 +85,7 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
 </div>
 
 <div style = "display: flex; margin-left: 90px">
-  <span style = "margin-left: 90px; font-weight: 800;">:pushpin: DataBase : </span>
+  <span style = "margin-left: 90px; font-weight: 800;">:pushpin: Database : </span>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
