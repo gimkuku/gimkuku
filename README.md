@@ -38,7 +38,7 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
       <td style="width: 14.7676%; height: 20px; text-align: center;">Web<br>Development</td>
       <td style="width: 15.465%; height: 20px; text-align: center;">2020.09<br>~ 2020.12</td>
       <td style="width: 44.7674%; height: 20px; text-align: center;">코딩로봇 연구소 웹 개발 인턴</td>
-      <td style="width: 25%; height: 20px; text-align: center;">Node.JS, Html, Css</td>
+      <td style="width: 25%; height: 20px; text-align: center;">Node.JS, Html, Css, Javascript</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14.7676%; height: 20px; text-align: center;">AI</td>
@@ -50,13 +50,13 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
       <td style="width: 14.7676%; height: 20px; text-align: center;">App<br>Development</td>
       <td style="width: 15.465%; height: 20px; text-align: center;">2021.01 ~</td>
       <td style="width: 44.7674%; height: 20px; text-align: center;">MeIn : 메뉴판을 찍으면 음식을 검색해주는<br>어플리케이션 개발</td>
-      <td style="width: 25%; height: 20px; text-align: center;">OCR, Flutter</td>
+      <td style="width: 25%; height: 20px; text-align: center;">OCR, Flutter, Dart, Firebase, Flask, Docker</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14.7676%; height: 20px; text-align: center;">Web<br>Development</td>
       <td style="width: 15.465%; height: 20px; text-align: center;">2021.05 ~</td>
       <td style="width: 44.7674%; height: 20px; text-align: center;">VENTI :<br>사용자 맞춤 브랜드 정보를 모아주는 웹 페이지 개발</td>
-      <td style="width: 25%; height: 20px; text-align: center;">Django, Python</td>
+      <td style="width: 25%; height: 20px; text-align: center;">Django, Python, Docker, Travis</td>
     </tr>
   </tbody>
 </table>
@@ -66,7 +66,7 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
 
 <h3 align = "center">:wrench:Tech Stack:wrench:<br></h3>
 <div style = "display: flex;">
-  <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Programing Lang : </span> 
+  <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Programming Lang : </span> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
   <img src="https://img.shields.io/badge/C-ABB9CC?style=flat-square&logo=C&logoColor=white"/>  
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>  
