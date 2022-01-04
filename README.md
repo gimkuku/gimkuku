@@ -48,13 +48,19 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14.7676%; height: 20px; text-align: center;">App<br>Development</td>
-      <td style="width: 15.465%; height: 20px; text-align: center;">2021.01 ~</td>
+      <td style="width: 15.465%; height: 20px; text-align: center;">2021.03 ~ 2021.10</td>
       <td style="width: 44.7674%; height: 20px; text-align: center;">MeIn : 메뉴판을 찍으면 음식을 검색해주는<br>어플리케이션 개발</td>
       <td style="width: 25%; height: 20px; text-align: center;">OCR, Flutter, Dart, Firebase, Flask, Docker</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14.7676%; height: 20px; text-align: center;">Web<br>Development</td>
-      <td style="width: 15.465%; height: 20px; text-align: center;">2021.05 ~</td>
+      <td style="width: 15.465%; height: 20px; text-align: center;">2021.06 ~ 2021.08</td>
+      <td style="width: 44.7674%; height: 20px; text-align: center;">VENTI :<br>사용자 맞춤 브랜드 정보를 모아주는 웹 페이지 개발</td>
+      <td style="width: 25%; height: 20px; text-align: center;">Django, Python, Docker, Travis</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14.7676%; height: 20px; text-align: center;">Backend<br>& DevOps Developer</td>
+      <td style="width: 15.465%; height: 20px; text-align: center;">2021.09 ~ 2021.12</td>
       <td style="width: 44.7674%; height: 20px; text-align: center;">VENTI :<br>사용자 맞춤 브랜드 정보를 모아주는 웹 페이지 개발</td>
       <td style="width: 25%; height: 20px; text-align: center;">Django, Python, Docker, Travis</td>
     </tr>
