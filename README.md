@@ -56,13 +56,13 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
       <td style="width: 14.7676%; height: 20px; text-align: center;">Web<br>Development</td>
       <td style="width: 15.465%; height: 20px; text-align: center;">2021.06 ~ 2021.08</td>
       <td style="width: 44.7674%; height: 20px; text-align: center;">VENTI :<br>사용자 맞춤 브랜드 정보를 모아주는 웹 페이지 개발</td>
-      <td style="width: 25%; height: 20px; text-align: center;">Django, Python, Docker, Travis</td>
+      <td style="width: 25%; height: 20px; text-align: center;">Django, Python, Docker, AWS EC2</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14.7676%; height: 20px; text-align: center;">Backend<br>& DevOps Developer</td>
       <td style="width: 15.465%; height: 20px; text-align: center;">2021.09 ~ 2021.12</td>
-      <td style="width: 44.7674%; height: 20px; text-align: center;">VENTI :<br>사용자 맞춤 브랜드 정보를 모아주는 웹 페이지 개발</td>
-      <td style="width: 25%; height: 20px; text-align: center;">Django, Python, Docker, Travis</td>
+      <td style="width: 44.7674%; height: 20px; text-align: center;">SLID :<br>온라인 강의를 들으며 필기를 함께 할 수 있는 서비스 개발</td>
+      <td style="width: 25%; height: 20px; text-align: center;">Django, Python, Pytest, AWS EC2, Lambda, Cloudfront, Cognito</td>
     </tr>
   </tbody>
 </table>
