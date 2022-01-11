@@ -41,12 +41,6 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
       <td style="width: 25%; height: 20px; text-align: center;">Node.JS, Html, Css, Javascript</td>
     </tr>
     <tr style="height: 20px;">
-      <td style="width: 14.7676%; height: 20px; text-align: center;">AI</td>
-      <td style="width: 15.465%; height: 20px; text-align: center;">2020.12&nbsp;<br>~ 2021.03</td>
-      <td style="width: 44.7674%; height: 20px; text-align: center;">인공지능을 이용한 시조 창작하기</td>
-      <td style="width: 25%; height: 20px; text-align: center;">GPT-3, Python</td>
-    </tr>
-    <tr style="height: 20px;">
       <td style="width: 14.7676%; height: 20px; text-align: center;">App<br>Development</td>
       <td style="width: 15.465%; height: 20px; text-align: center;">2021.03 ~ 2021.10</td>
       <td style="width: 44.7674%; height: 20px; text-align: center;">MeIn : 메뉴판을 찍으면 음식을 검색해주는<br>어플리케이션 개발</td>
