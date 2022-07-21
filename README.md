@@ -15,56 +15,56 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;font-weight: 800;"><b>Type</b> </td>
       <td style="width: 15%; height: 20px; text-align: center;font-weight: 800;"><b>Date</b></td>
-      <td style="width: 46%; height: 20px; text-align: center;font-weight: 800;"><b>Contents</b></td>
-      <td style="width: 25%; height: 20px; text-align: center;font-weight: 800;"><b>Stack</b></td>
+      <td style="width: 50%; height: 20px; text-align: center;font-weight: 800;"><b>Contents</b></td>
+      <td style="width: 21%; height: 20px; text-align: center;font-weight: 800;"><b>Stack</b></td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Education</td>
       <td style="width: 15%; height: 20px; text-align: center;">2018.03 ~</td>
-      <td style="width: 46%; height: 20px; text-align: center;">이화여자대학교 소프트웨어학부 컴퓨터공학과</td>
-      <td style="width: 25%; height: 20px; text-align: center;">&nbsp;</td>
+      <td style="width: 50%; height: 20px; text-align: center;">이화여자대학교 소프트웨어학부 컴퓨터공학과</td>
+      <td style="width: 21%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Education</td>
       <td style="width: 15%; height: 20px; text-align: center;">2020.01<br>~ 2020.04</td>
-      <td style="width: 46%; height: 20px; text-align: center;">California State University, East Bay 교환 학생</td>
-      <td style="width: 25%; height: 20px; text-align: center;">&nbsp;</td>
+      <td style="width: 50%; height: 20px; text-align: center;">California State University, East Bay 교환 학생</td>
+      <td style="width: 21%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Web<br>Development</td>
       <td style="width: 15%; height: 20px; text-align: center;">2020.09<br>~ 2020.12</td>
-      <td style="width: 46%; height: 20px; text-align: center;">코딩로봇 연구소 웹 개발 인턴</td>
-      <td style="width: 25%; height: 20px; text-align: center;">Node.JS, Html, Css, Javascript</td>
+      <td style="width: 50%; height: 20px; text-align: center;">코딩로봇 연구소 웹 개발 인턴</td>
+      <td style="width: 21%; height: 20px; text-align: center;">Node.JS, Html, Css, Javascript</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">App<br>Development</td>
       <td style="width: 15%; height: 20px; text-align: center;">2021.03 ~ 2021.10</td>
-      <td style="width: 46%; height: 20px; text-align: center;">MeIn : 메뉴판을 찍으면 음식을 검색해주는<br>어플리케이션 개발</td>
-      <td style="width: 25%; height: 20px; text-align: center;">OCR, Flutter, Dart, Firebase, Flask, Docker</td>
+      <td style="width: 50%; height: 20px; text-align: center;">MeIn : 메뉴판을 찍으면 음식을 검색해주는<br>어플리케이션 개발</td>
+      <td style="width: 21%; height: 20px; text-align: center;">OCR, Flutter, Dart, Firebase, Flask, Docker</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Web<br>Development</td>
       <td style="width: 15%; height: 20px; text-align: center;">2021.06 ~ 2021.08</td>
-      <td style="width: 46%; height: 20px; text-align: center;">VENTI :<br>사용자 맞춤 브랜드 정보를 모아주는 웹 페이지 개발</td>
-      <td style="width: 25%; height: 20px; text-align: center;">Django, Python, Docker, AWS EC2</td>
+      <td style="width: 50%; height: 20px; text-align: center;">VENTI :<br>사용자 맞춤 브랜드 정보를 모아주는 웹 페이지 개발</td>
+      <td style="width: 21%; height: 20px; text-align: center;">Django, Python, Docker, AWS EC2</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Backend<br>& DevOps</td>
       <td style="width: 15%; height: 20px; text-align: center;">2021.09 ~ 2021.12</td>
-      <td style="width: 46%; height: 20px; text-align: center;">SLID :<br>온라인 강의를 들으며 필기를 함께 할 수 있는 서비스 개발</td>
-      <td style="width: 25%; height: 20px; text-align: center;">Django, Python, Pytest, AWS EC2, Lambda, Cloudfront, Cognito</td>
+      <td style="width: 50%; height: 20px; text-align: center;">SLID :<br>온라인 강의를 들으며 필기를 함께 할 수 있는 서비스 개발</td>
+      <td style="width: 21%; height: 20px; text-align: center;">Django, Python, Pytest, AWS EC2, Lambda, Cloudfront, Cognito</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Certificate</td>
       <td style="width: 15%; height: 20px; text-align: center;">2022.02</td>
-      <td style="width: 46%; height: 20px; text-align: center;">AWS certified Solution Architect Associate 자격증 취득</td>
-      <td style="width: 25%; height: 20px; text-align: center;">&nbsp;</td>
+      <td style="width: 50%; height: 20px; text-align: center;">AWS certified Solution Architect Associate 자격증 취득</td>
+      <td style="width: 21%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">AWS Cloud<br>Support Associate</td>
       <td style="width: 15%; height: 20px; text-align: center;">2022.05 ~ </td>
-      <td style="width: 46%; height: 20px; text-align: center;">AWS Serverless 서비스의 기술지원을 하고 있습니다. </td>
-      <td style="width: 25%; height: 20px; text-align: center;">NodeJS, Python, Java, Lambda, API Gateway, SNS, SQS</td>
+      <td style="width: 50%; height: 20px; text-align: center;">AWS Serverless 서비스의 기술지원을 하고 있습니다. </td>
+      <td style="width: 21%; height: 20px; text-align: center;">NodeJS, Python, Java, Lambda, API Gateway, SNS, SQS</td>
     </tr>
   </tbody>
 </table>
