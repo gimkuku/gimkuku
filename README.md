@@ -28,11 +28,13 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
       <td style="width: 14.7676%; height: 20px; text-align: center;">Game<br>Development</td>
       <td style="width: 15.465%; height: 20px; text-align: center;">2019.07<br>~ 2019.12</td>
       <td style="width: 44.7674%; height: 20px; text-align: center;">어린이를 위한 코딩 연습 게임 개발</td>
-      <td style="width: 25%; height: 20px; text-align: center;">Unity, C#</td></tr><tr style="height: 20px;">
-    <td style="width: 14.7676%; height: 20px; text-align: center;">Education</td>
-    <td style="width: 15.465%; height: 20px; text-align: center;">2020.01<br>~ 2020.04</td>
-    <td style="width: 44.7674%; height: 20px; text-align: center;">California State University, East Bay 교환 학생</td>
-    <td style="width: 25%; height: 20px; text-align: center;">&nbsp;</td>
+      <td style="width: 25%; height: 20px; text-align: center;">Unity, C#</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14.7676%; height: 20px; text-align: center;">Education</td>
+      <td style="width: 15.465%; height: 20px; text-align: center;">2020.01<br>~ 2020.04</td>
+      <td style="width: 44.7674%; height: 20px; text-align: center;">California State University, East Bay 교환 학생</td>
+      <td style="width: 25%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14.7676%; height: 20px; text-align: center;">Web<br>Development</td>
@@ -57,6 +59,12 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
       <td style="width: 15.465%; height: 20px; text-align: center;">2021.09 ~ 2021.12</td>
       <td style="width: 44.7674%; height: 20px; text-align: center;">SLID :<br>온라인 강의를 들으며 필기를 함께 할 수 있는 서비스 개발</td>
       <td style="width: 25%; height: 20px; text-align: center;">Django, Python, Pytest, AWS EC2, Lambda, Cloudfront, Cognito</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14.7676%; height: 20px; text-align: center;">AWS Cloud<br>Support Associate</td>
+      <td style="width: 15.465%; height: 20px; text-align: center;">2022.05 ~ </td>
+      <td style="width: 44.7674%; height: 20px; text-align: center;">AWS Serverless 서비스의 기술지원을 하고 있습니다. </td>
+      <td style="width: 25%; height: 20px; text-align: center;">NodeJS, Python, Java, Lambda, API Gateway, SNS, SQS</td>
     </tr>
   </tbody>
 </table>
