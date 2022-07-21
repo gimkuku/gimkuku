@@ -21,7 +21,7 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Education</td>
       <td style="width: 15%; height: 20px; text-align: center;">2018.03 ~</td>
-      <td style="width: 60%; height: 20px; text-align: center;">이화여자대학교 소프트웨어학부 컴퓨터공학과</td>
+      <td style="width: 60%; height: 20px; text-align: center;">소프트웨어학부 컴퓨터공학과</td>
       <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
     <tr style="height: 20px;">
