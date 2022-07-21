@@ -21,14 +21,8 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
     <tr style="height: 20px;">
       <td style="width: 14.7676%; height: 20px; text-align: center;">Education</td>
       <td style="width: 15.465%; height: 20px; text-align: center;">2018.03 ~</td>
-      <td style="width: 44.7674%; height: 20px; text-align: center;">소프트웨어학부 컴퓨터공학과</td>
+      <td style="width: 44.7674%; height: 20px; text-align: center;">이화여자대학교 소프트웨어학부 컴퓨터공학과</td>
       <td style="width: 25%; height: 20px; text-align: center;">&nbsp;</td>
-    </tr>
-    <tr style="height: 20px;">
-      <td style="width: 14.7676%; height: 20px; text-align: center;">Game<br>Development</td>
-      <td style="width: 15.465%; height: 20px; text-align: center;">2019.07<br>~ 2019.12</td>
-      <td style="width: 44.7674%; height: 20px; text-align: center;">어린이를 위한 코딩 연습 게임 개발</td>
-      <td style="width: 25%; height: 20px; text-align: center;">Unity, C#</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14.7676%; height: 20px; text-align: center;">Education</td>
@@ -59,6 +53,12 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
       <td style="width: 15.465%; height: 20px; text-align: center;">2021.09 ~ 2021.12</td>
       <td style="width: 44.7674%; height: 20px; text-align: center;">SLID :<br>온라인 강의를 들으며 필기를 함께 할 수 있는 서비스 개발</td>
       <td style="width: 25%; height: 20px; text-align: center;">Django, Python, Pytest, AWS EC2, Lambda, Cloudfront, Cognito</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14.7676%; height: 20px; text-align: center;">Certificate</td>
+      <td style="width: 15.465%; height: 20px; text-align: center;">2022.02</td>
+      <td style="width: 44.7674%; height: 20px; text-align: center;">AWS certified Solution Architect Associate 자격증 취득</td>
+      <td style="width: 25%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14.7676%; height: 20px; text-align: center;">AWS Cloud<br>Support Associate</td>
