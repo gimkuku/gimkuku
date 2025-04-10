@@ -62,9 +62,21 @@ Hello I'm Hyeonjin Kim:raised_hands:<br>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">AWS Cloud<br>Support Associate</td>
-      <td style="width: 15%; height: 20px; text-align: center;">2022.05 ~ </td>
-      <td style="width: 60%; height: 20px; text-align: center;">AWS Serverless 서비스의 기술지원을 하고 있습니다. </td>
+      <td style="width: 15%; height: 20px; text-align: center;">2022.05 ~ 2022.12</td>
+      <td style="width: 60%; height: 20px; text-align: center;">AWS Serverless 서비스의 기술지원 </td>
       <td style="width: 11%; height: 20px; text-align: center;">NodeJS, Python, Java, Lambda, API Gateway, SNS, SQS</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">내친소(Startup)</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2023.01 ~ 2024.06</td>
+      <td style="width: 60%; height: 20px; text-align: center;">백엔드 개발 및 AWS 인프라 운영 관리</td>
+      <td style="width: 11%; height: 20px; text-align: center;">AWS, Spring Boot, Java, Neo4j, SQL</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">KPMG<br>Digital Transformation Consulting</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2024.07 ~ </td>
+      <td style="width: 60%; height: 20px; text-align: center;">금융 컨설팅 본부 디지털 전환 컨설팅 </td>
+      <td style="width: 11%; height: 20px; text-align: center;"></td>
     </tr>
   </tbody>
 </table>
